@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/MugamboBC/mugambo-base/hash"
-	"github.com/MugamboBC/mugambo-base/inter/dag"
-	"github.com/MugamboBC/mugambo-base/inter/dag/tdag"
-	"github.com/MugamboBC/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/hash"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/inter/dag/tdag"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
 )
 
 func TestEventsBuffer(t *testing.T) {

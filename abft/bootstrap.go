@@ -3,9 +3,9 @@ package abft
 import (
 	"errors"
 
-	"github.com/MugamboBC/mugambo-base/abft/election"
-	"github.com/MugamboBC/mugambo-base/inter/idx"
-	"github.com/MugamboBC/mugambo-base/inter/pos"
+	"github.com/mugambocoin/mugambo-base/abft/election"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/inter/pos"
 )
 
 const (

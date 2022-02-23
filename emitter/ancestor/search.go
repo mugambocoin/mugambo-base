@@ -1,7 +1,7 @@
 package ancestor
 
 import (
-	"github.com/MugamboBC/mugambo-base/hash"
+	"github.com/mugambocoin/mugambo-base/hash"
 )
 
 // SearchStrategy defines a criteria used to estimate the "best" subset of parents to emit event with.

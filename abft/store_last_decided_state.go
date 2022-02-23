@@ -1,7 +1,7 @@
 package abft
 
 import (
-	"github.com/MugamboBC/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
 )
 
 const dsKey = "d"

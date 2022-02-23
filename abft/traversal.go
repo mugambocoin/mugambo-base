@@ -3,8 +3,8 @@ package abft
 import (
 	"errors"
 
-	"github.com/MugamboBC/mugambo-base/hash"
-	"github.com/MugamboBC/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/hash"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
 )
 
 type eventFilterFn func(event dag.Event) bool

@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/MugamboBC/mugambo-base/common/bigendian"
-	"github.com/MugamboBC/mugambo-base/common/littleendian"
+	"github.com/mugambocoin/mugambo-base/common/bigendian"
+	"github.com/mugambocoin/mugambo-base/common/littleendian"
 )
 
 func Test_IntToBytes(t *testing.T) {

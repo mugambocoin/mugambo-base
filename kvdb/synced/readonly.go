@@ -3,7 +3,7 @@ package synced
 import (
 	"sync"
 
-	"github.com/MugamboBC/mugambo-base/kvdb"
+	"github.com/mugambocoin/mugambo-base/kvdb"
 )
 
 // readonlyStore wrapper around any kvdb.ReadonlyStore.

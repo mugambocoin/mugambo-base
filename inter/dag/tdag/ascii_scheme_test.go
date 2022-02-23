@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/MugamboBC/mugambo-base/inter/dag"
-	"github.com/MugamboBC/mugambo-base/utils"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/utils"
 )
 
 func TestASCIIschemeToDAG(t *testing.T) {

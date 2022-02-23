@@ -3,7 +3,7 @@ package wlru
 import (
 	"sync"
 
-	"github.com/MugamboBC/mugambo-base/utils/simplewlru"
+	"github.com/mugambocoin/mugambo-base/utils/simplewlru"
 )
 
 // Cache is a thread-safe fixed size LRU cache.

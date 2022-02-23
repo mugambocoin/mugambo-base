@@ -1,8 +1,8 @@
 package vecengine
 
 import (
-	"github.com/MugamboBC/mugambo-base/inter/dag"
-	"github.com/MugamboBC/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
 )
 
 type LowestAfterI interface {

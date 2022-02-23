@@ -1,13 +1,13 @@
 package abft
 
 import (
-	"github.com/MugamboBC/mugambo-base/inter/idx"
-	"github.com/MugamboBC/mugambo-base/inter/pos"
-	"github.com/MugamboBC/mugambo-base/kvdb"
-	"github.com/MugamboBC/mugambo-base/kvdb/memorydb"
-	"github.com/MugamboBC/mugambo-base/mugambobft"
-	"github.com/MugamboBC/mugambo-base/utils/adapters"
-	"github.com/MugamboBC/mugambo-base/vecfc"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/inter/pos"
+	"github.com/mugambocoin/mugambo-base/kvdb"
+	"github.com/mugambocoin/mugambo-base/kvdb/memorydb"
+	"github.com/mugambocoin/mugambo-base/mugambobft"
+	"github.com/mugambocoin/mugambo-base/utils/adapters"
+	"github.com/mugambocoin/mugambo-base/vecfc"
 )
 
 type applyBlockFn func(block *mugambobft.Block) *pos.Validators

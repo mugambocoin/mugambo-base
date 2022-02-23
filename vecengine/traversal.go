@@ -3,8 +3,8 @@ package vecengine
 import (
 	"errors"
 
-	"github.com/MugamboBC/mugambo-base/hash"
-	"github.com/MugamboBC/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/hash"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
 )
 
 // DfsSubgraph iterates all the event which are observed by head, and accepted by a filter

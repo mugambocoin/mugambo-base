@@ -5,11 +5,11 @@ import (
 
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/MugamboBC/mugambo-base/inter/idx"
-	"github.com/MugamboBC/mugambo-base/kvdb"
-	"github.com/MugamboBC/mugambo-base/kvdb/memorydb"
-	"github.com/MugamboBC/mugambo-base/kvdb/table"
-	"github.com/MugamboBC/mugambo-base/utils/simplewlru"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/kvdb"
+	"github.com/mugambocoin/mugambo-base/kvdb/memorydb"
+	"github.com/mugambocoin/mugambo-base/kvdb/table"
+	"github.com/mugambocoin/mugambo-base/utils/simplewlru"
 )
 
 // Store is a abft persistent storage working over parent key-value database.

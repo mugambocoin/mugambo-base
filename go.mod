@@ -1,4 +1,4 @@
-module github.com/MugamboBC/mugambo-base
+module github.com/mugambocoin/mugambo-base
 
 go 1.14
 

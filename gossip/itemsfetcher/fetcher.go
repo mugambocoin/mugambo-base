@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/MugamboBC/mugambo-base/utils/wlru"
-	"github.com/MugamboBC/mugambo-base/utils/workers"
+	"github.com/mugambocoin/mugambo-base/utils/wlru"
+	"github.com/mugambocoin/mugambo-base/utils/workers"
 )
 
 /*

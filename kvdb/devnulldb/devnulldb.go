@@ -1,7 +1,7 @@
 package devnulldb
 
 import (
-	"github.com/MugamboBC/mugambo-base/kvdb"
+	"github.com/mugambocoin/mugambo-base/kvdb"
 )
 
 // Database is an always empty database.

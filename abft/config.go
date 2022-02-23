@@ -1,6 +1,6 @@
 package abft
 
-import "github.com/MugamboBC/mugambo-base/utils/cachescale"
+import "github.com/mugambocoin/mugambo-base/utils/cachescale"
 
 type Config struct {
 }

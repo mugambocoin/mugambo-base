@@ -4,11 +4,11 @@ import (
 	"math"
 	"sync"
 
-	"github.com/MugamboBC/mugambo-base/eventcheck"
-	"github.com/MugamboBC/mugambo-base/hash"
-	"github.com/MugamboBC/mugambo-base/inter/dag"
-	"github.com/MugamboBC/mugambo-base/inter/idx"
-	"github.com/MugamboBC/mugambo-base/utils/wlru"
+	"github.com/mugambocoin/mugambo-base/eventcheck"
+	"github.com/mugambocoin/mugambo-base/hash"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/utils/wlru"
 )
 
 type (

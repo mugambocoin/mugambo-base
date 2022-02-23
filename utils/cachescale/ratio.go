@@ -1,7 +1,7 @@
 package cachescale
 
 import (
-	"github.com/MugamboBC/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
 )
 
 // Ratio alters the cache sizes proportionally to a ratio

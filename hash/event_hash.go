@@ -11,8 +11,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/MugamboBC/mugambo-base/common/bigendian"
-	"github.com/MugamboBC/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/common/bigendian"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
 )
 
 type (

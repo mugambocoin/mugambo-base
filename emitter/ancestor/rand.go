@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/MugamboBC/mugambo-base/hash"
+	"github.com/mugambocoin/mugambo-base/hash"
 )
 
 /*

@@ -1,7 +1,7 @@
 package skiperrors
 
 import (
-	"github.com/MugamboBC/mugambo-base/kvdb"
+	"github.com/mugambocoin/mugambo-base/kvdb"
 )
 
 // wrapper is a kvdb.Store wrapper around any kvdb.Store.

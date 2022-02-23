@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math"
 
-	"github.com/MugamboBC/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/MugamboBC/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
 )
 
 type DataSemaphore struct {

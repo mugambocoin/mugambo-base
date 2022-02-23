@@ -3,7 +3,7 @@ package dag
 import (
 	"fmt"
 
-	"github.com/MugamboBC/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
 )
 
 type Metric struct {

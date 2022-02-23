@@ -1,6 +1,6 @@
 package queuedcheck
 
-import "github.com/MugamboBC/mugambo-base/inter/dag"
+import "github.com/mugambocoin/mugambo-base/inter/dag"
 
 type EventTask interface {
 	Event() dag.Event

@@ -1,7 +1,7 @@
 package wmedian
 
 import (
-	"github.com/MugamboBC/mugambo-base/inter/pos"
+	"github.com/mugambocoin/mugambo-base/inter/pos"
 )
 
 type WeightedValue interface {

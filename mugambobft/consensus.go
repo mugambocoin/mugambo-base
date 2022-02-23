@@ -1,8 +1,8 @@
 package mugambobft
 
 import (
-	"github.com/MugamboBC/mugambo-base/inter/dag"
-	"github.com/MugamboBC/mugambo-base/inter/pos"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/inter/pos"
 )
 
 // Consensus is a consensus interface.

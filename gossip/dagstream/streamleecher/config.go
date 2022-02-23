@@ -3,8 +3,8 @@ package streamleecher
 import (
 	"time"
 
-	"github.com/MugamboBC/mugambo-base/gossip/dagstream/streamleecher/peerleecher"
-	"github.com/MugamboBC/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/gossip/dagstream/streamleecher/peerleecher"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
 )
 
 type Config struct {

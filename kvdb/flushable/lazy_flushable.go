@@ -1,8 +1,8 @@
 package flushable
 
 import (
-	"github.com/MugamboBC/mugambo-base/kvdb"
-	"github.com/MugamboBC/mugambo-base/kvdb/devnulldb"
+	"github.com/mugambocoin/mugambo-base/kvdb"
+	"github.com/mugambocoin/mugambo-base/kvdb/devnulldb"
 )
 
 // LazyFlushable is a Flushable with delayed DB producer

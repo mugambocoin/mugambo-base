@@ -1,10 +1,10 @@
 package eventcheck
 
 import (
-	"github.com/MugamboBC/mugambo-base/eventcheck/basiccheck"
-	"github.com/MugamboBC/mugambo-base/eventcheck/epochcheck"
-	"github.com/MugamboBC/mugambo-base/eventcheck/parentscheck"
-	"github.com/MugamboBC/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/eventcheck/basiccheck"
+	"github.com/mugambocoin/mugambo-base/eventcheck/epochcheck"
+	"github.com/mugambocoin/mugambo-base/eventcheck/parentscheck"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
 )
 
 // Checkers is collection of all the checkers

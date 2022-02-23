@@ -1,15 +1,15 @@
 package vecfc
 
 import (
-	"github.com/MugamboBC/mugambo-base/hash"
-	"github.com/MugamboBC/mugambo-base/inter/dag"
-	"github.com/MugamboBC/mugambo-base/inter/idx"
-	"github.com/MugamboBC/mugambo-base/inter/pos"
-	"github.com/MugamboBC/mugambo-base/kvdb"
-	"github.com/MugamboBC/mugambo-base/kvdb/table"
-	"github.com/MugamboBC/mugambo-base/utils/cachescale"
-	"github.com/MugamboBC/mugambo-base/utils/simplewlru"
-	"github.com/MugamboBC/mugambo-base/vecengine"
+	"github.com/mugambocoin/mugambo-base/hash"
+	"github.com/mugambocoin/mugambo-base/inter/dag"
+	"github.com/mugambocoin/mugambo-base/inter/idx"
+	"github.com/mugambocoin/mugambo-base/inter/pos"
+	"github.com/mugambocoin/mugambo-base/kvdb"
+	"github.com/mugambocoin/mugambo-base/kvdb/table"
+	"github.com/mugambocoin/mugambo-base/utils/cachescale"
+	"github.com/mugambocoin/mugambo-base/utils/simplewlru"
+	"github.com/mugambocoin/mugambo-base/vecengine"
 )
 
 // IndexCacheConfig - config for cache sizes of Engine

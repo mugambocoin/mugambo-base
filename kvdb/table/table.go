@@ -1,7 +1,7 @@
 package table
 
 import (
-	"github.com/MugamboBC/mugambo-base/kvdb"
+	"github.com/mugambocoin/mugambo-base/kvdb"
 )
 
 // Table wraper the underling DB, so all the table's data is stored with a prefix in underling DB
